@@ -32,4 +32,10 @@
   yum install jenkins -y
   
 # Service start jenkins
-  systemctl start jenkins
+  systemctl start jenkinis
+
+# Get the default password
+  cat /var/lib/jenkins/secrets/initialAdminPassword
+
+# Install Git
+  yum install git -y
