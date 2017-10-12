@@ -33,5 +33,6 @@
   
 # Service start jenkins
   systemctl start jenkins
+
 # Install Git
   yum install git -y
