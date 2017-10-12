@@ -10,6 +10,9 @@
 # Install Zip
   yum install zip -y
   
+# Install unzip
+  yum install unzip -y
+  
 # Install apache 
   yum install httpd -y
   
